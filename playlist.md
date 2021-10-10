@@ -1,5 +1,7 @@
 # Playlist
-<p>- Summer of 1984 ∙ “grateful kings” by RKVC <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">https://youtu.be/cmwomhy81qg</a></p>
+ <a href="https://youtu.be/cmwomhy81qg" target="_blank" rel="noopener noreferrer" > - Summer of 1984 ∙ “grateful kings” by RKVC </a>
+     
+<a target="_blank" rel="noopener noreferrer" href="https://youtu.be/cmwomhy81qg">- Summer of 1984 ∙ “grateful kings” by RKVC </a>
 - LoFi Beats https://www.youtube.com/watch?v=5qap5aO4i9A
 - Mewmore-Unwavering Emotions https://www.youtube.com/watch?v=o-mKUzqHcEc
 - Beyond the Sky, Acoustic https://www.youtube.com/watch?v=0_Af8SX2bWM
